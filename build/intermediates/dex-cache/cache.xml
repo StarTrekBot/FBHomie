@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_837fffab0476526fb079510a62cff663aa81ccbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_d5a5c7f5d6fa2817ba1f213d65f77b66ddb83fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_0d4d00d58007e93c95343aaa298970fffd5f3a8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_b52362b00ee225f717dddbe16333891c2bbb48d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_6958bef902133c0bb4f440e13a8b0d62b6dfc561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_27743b6e542e3f3e1404f74811356eec6797c284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/wear/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_45d377078efaebde4178ab1c877be5035ea85a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_84361e56a9795d80fe1c61ad25c7ef4a51f66b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_ca3d4fb0cad69b085ad9a0fc35a009f978d7c264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/wear/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_a625ef2cc9c5ba075bc3008ea90ef2c7c1f1df6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/wear/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_545fada7dacfa11e4f96680402661dfd2acac103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/wear/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_f5aad23d05a24382e7cb3cf76f43beb0de01a5c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/wear/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-1.4.0_344985ad03ceb6fcc4e87181be3c1a2aa401a64b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_7f69608fff646ad5187782645d1adc9f8eb68eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_a60f0fae15b7e73a6e4d8d8ad696e666e6023db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_3a40ff7c2f49d02cf44ebf66e46289077be8582a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.google.android.support/wearable/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40a6fbd08fdbb71c74751916201e5fd8694e16ca">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-1.4.0_1f21f801feab443217d864fea949364c34ea5b55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_66e8929e1f3ab6156fd86777adf2cefc36e73bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/exploded-aar/org.adw.library/discrete-seekbar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e2965bae48affdd6dcd3f87cd525a988ade1250">
+        <dex dex="/home/rl/Android_prj/smarthomie_git/smarthomie/mobile/build/intermediates/pre-dexed/debug/org.adw.library-discrete-seekbar-1.0.0_b4fb861b121fe79b172906998878648b055b1973.jar" />
+    </item>
+
+</items>

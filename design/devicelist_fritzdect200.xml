@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devicelist version="1">
+	<device identifier="08761 0000358" id="16" functionbitmask="896"
+		fwversion="03.59" manufacturer="AVM" productname="FRITZ!DECT 200">
+		<present>1</present>
+		<name>SolderStation</name>
+		<switch>
+			<state>0</state>
+			<mode>manuell</mode>
+			<lock>0</lock>
+		</switch>
+		<powermeter>
+			<power>0</power>
+			<energy>58407</energy>
+		</powermeter>
+		<temperature>
+			<celsius>215</celsius>
+			<offset>0</offset>
+		</temperature>
+	</device>
+	<device identifier="09295 0191272" id="17" functionbitmask="320"
+		fwversion="03.54" manufacturer="AVM" productname="Comet DECT">
+		<present>0</present>
+		<name>Arbeitszimmer1</name>
+		<temperature>
+			<celsius></celsius>
+			<offset></offset>
+		</temperature>
+		<hkr>
+			<tist></tist>
+			<tsoll></tsoll>
+			<absenk></absenk>
+			<komfort></komfort>
+		</hkr>
+	</device>
+	<device identifier="09295 0132672" id="18" functionbitmask="320"
+		fwversion="03.54" manufacturer="AVM" productname="Comet DECT">
+		<present>1</present>
+		<name>Badezimmer</name>
+		<temperature>
+			<celsius>240</celsius>
+			<offset>0</offset>
+		</temperature>
+		<hkr>
+			<tist>48</tist>
+			<tsoll>45</tsoll>
+			<absenk>36</absenk>
+			<komfort>50</komfort>
+		</hkr>
+	</device>
+	<device identifier="09295 0131008" id="19" functionbitmask="320"
+		fwversion="03.54" manufacturer="AVM" productname="Comet DECT">
+		<present>1</present>
+		<name>Wohnzimmer</name>
+		<temperature>
+			<celsius>230</celsius>
+			<offset>0</offset>
+		</temperature>
+		<hkr>
+			<tist>46</tist>
+			<tsoll>36</tsoll>
+			<absenk>36</absenk>
+			<komfort>42</komfort>
+		</hkr>
+	</device>
+	<device identifier="08761 0010395" id="20" functionbitmask="896"
+		fwversion="03.59" manufacturer="AVM" productname="FRITZ!DECT 200">
+		<present>1</present>
+		<name>Katzenbrunnen</name>
+		<switch>
+			<state>1</state>
+			<mode>auto</mode>
+			<lock>0</lock>
+		</switch>
+		<powermeter>
+			<power>3710</power>
+			<energy>40440</energy>
+		</powermeter>
+		<temperature>
+			<celsius>225</celsius>
+			<offset>0</offset>
+		</temperature>
+	</device>
+	<device identifier="09295 0557072" id="21" functionbitmask="320"
+		fwversion="03.54" manufacturer="AVM" productname="Comet DECT">
+		<present>1</present>
+		<name>Arbeitszimmer2</name>
+		<temperature>
+			<celsius>245</celsius>
+			<offset>0</offset>
+		</temperature>
+		<hkr>
+			<tist>49</tist>
+			<tsoll>36</tsoll>
+			<absenk>36</absenk>
+			<komfort>46</komfort>
+		</hkr>
+	</device>
+</devicelist>
+
